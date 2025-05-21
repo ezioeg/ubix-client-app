@@ -28,8 +28,8 @@ Ubix Client App is a mobile application that allows users to register, explore p
 - Context API
 
 ### UI/Styling
-- React Native Easy Toast v2.0.0
 - React Native Vector Icons v8.1.0
+- React Native Easy Toast v2.0.0
 - React Native Swiper v1.6.0-nightly.3
 - React Native Swipe List View v3.2.6
 
