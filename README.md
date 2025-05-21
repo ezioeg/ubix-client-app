@@ -41,10 +41,6 @@ Ubix Client App is a mobile application that allows users to register, explore p
 - React Native Geocoding v0.5.0
 - React Native Google Places Autocomplete v2.2.0
 
-### Push Notifications
-- OneSignal v4.1
-- React Native Push Notification v7.4
-
 ### Utilities
 - React Native Config v1.5
 - React Native Permissions v3.0.1
