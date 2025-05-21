@@ -13,10 +13,42 @@ Ubix Client App is a mobile application that allows users to register, explore p
 
 ## Technologies Used
 
-- **React Native**
-- **Context API**
-- **Firebase**: For user authentication, data storage, and notifications.
-- **Google Maps API**
+### Core
+- React Native v0.64.0
+- React v17.0.1
+- React Navigation v5 (Stack v5.14.3, Bottom Tabs v5.11.8, Native v5.9.3)
+- React Native Gesture Handler v1.10.3
+- React Native Reanimated v2.0.0
+- React Native Safe Area Context v3.2.0
+- React Native Screens v2.18.1
+- React Native Keyboard Aware Scroll View v0.9.3
+- React Native Easy Toast v2.0.0
+- React Native Vector Icons v8.1.0
+- React Native Swiper v1.6.0-nightly.3
+- React Native Swipe List View v3.2.6
+- Lodash v4.17.21
+- React Native Fast Image v8.3.4
+- React Native Image Picker v3.3.2
+
+### Backend as a Service
+- React Native Firebase v11.1.2 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
+- Geofirestore v4.4.1
+
+### Maps & Geolocation
+- React Native Maps v0.27.1
+- Maps Directions v1.8.0
+- React Native Geolocation Service v5.2.0
+- React Native Geocoding v0.5.0
+- React Native Google Places Autocomplete v2.2.0
+
+### Push Notifications
+- OneSignal v4.1
+- React Native Push Notification v7.4
+
+### Utilities
+- React Native Config v1.5
+- React Native Permissions v3.0.1
+- @react-native-community/masked-view v0.1.10
 
 ## Setup
 
