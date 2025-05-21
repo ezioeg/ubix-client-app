@@ -30,15 +30,15 @@ Ubix Client App is a mobile application that allows users to register, explore p
 - React Native Swiper v1.6.0-nightly.3
 - React Native Swipe List View v3.2.6
 
+### State Management
+- Context API
+
 ### Maps & Geolocation
 - React Native Maps v0.27.1
 - Maps Directions v1.8.0
 - React Native Geolocation Service v5.2.0
 - React Native Geocoding v0.5.0
 - React Native Google Places Autocomplete v2.2.0
-
-### State Management
-- Context API
 
 ### Utilities
 - React Native Config v1.5
