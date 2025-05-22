@@ -11,41 +11,39 @@ Ubix Client App is a mobile application that allows users to register, explore p
 
 ## Technologies Used
 ### Core
-- React Native v0.64.0
-- React v17.0.1
-- React Navigation v5 (Stack v5.14.3, Bottom Tabs v5.11.8, Native v5.9.3)
-- React Native Gesture Handler v1.10.3
-- React Native Reanimated v2.0.0
-- React Native Safe Area Context v3.2.0
-- React Native Screens v2.18.1
-- React Native Keyboard Aware Scroll View v0.9.3
-- React Native Fast Image v8.3.4
+- [React Native](https://www.npmjs.com/package/react-native) `v0.64.0`  
+- [React](https://www.npmjs.com/package/react) `v17.0.1`  
+- [React Navigation](https://www.npmjs.com/package/@react-navigation/native) `v5`  
+  - Stack: `v5.14.3`, Bottom Tabs: `v5.11.8`, Native: `v5.9.3`  
+- [React Native Keyboard Aware Scroll View](https://www.npmjs.com/package/react-native-keyboard-aware-scroll-view) `v0.9.3`  
+- [React Native Fast Image](https://www.npmjs.com/package/react-native-fast-image) `v8.3.4`  
 
-### UI/Styling
-- React Native Vector Icons v8.1.0
-- React Native Easy Toast v2.0.0
-- React Native Swiper v1.6.0-nightly.3
-- React Native Swipe List View v3.2.6
+### UI / Styling
+- [React Native Vector Icons](https://www.npmjs.com/package/react-native-vector-icons) `v8.1.0`  
+- [React Native Easy Toast](https://www.npmjs.com/package/react-native-easy-toast) `v2.0.0`  
+- [React Native Swiper](https://www.npmjs.com/package/react-native-swiper) `v1.6.0-nightly.3`  
+- [React Native Swipe List View](https://www.npmjs.com/package/react-native-swipe-list-view) `v3.2.6`  
 
 ### State Management
-- Context API
+- Context API  
 
 ### Maps & Geolocation
-- React Native Maps v0.27.1
-- Maps Directions v1.8.0
-- React Native Geolocation Service v5.2.0
-- React Native Geocoding v0.5.0
-- React Native Google Places Autocomplete v2.2.0
+- [React Native Maps](https://www.npmjs.com/package/react-native-maps) `v0.27.1`  
+- [Maps Directions](https://www.npmjs.com/package/react-native-maps-directions) `v1.8.0`  
+- [React Native Geolocation Service](https://www.npmjs.com/package/react-native-geolocation-service) `v5.2.0`  
+- [React Native Geocoding](https://www.npmjs.com/package/react-native-geocoding) `v0.5.0`  
+- [React Native Google Places Autocomplete](https://www.npmjs.com/package/react-native-google-places-autocomplete) `v2.2.0`  
 
 ### Utilities
-- React Native Config v1.5
-- React Native Permissions v3.0.1
-- Lodash v4.17.21
-- React Native Image Picker v3.3.2
+- [React Native Config](https://www.npmjs.com/package/react-native-config) `v1.5`  
+- [React Native Permissions](https://www.npmjs.com/package/react-native-permissions) `v3.0.1`  
+- [Lodash](https://www.npmjs.com/package/lodash) `v4.17.21`  
+- [React Native Image Picker](https://www.npmjs.com/package/react-native-image-picker) `v3.3.2`  
 
 ### Backend as a Service
-- React Native Firebase v11.1.2 (Auth, Firestore, Storage, Cloud Messaging, Cloud Functions)
-- Geofirestore v4.4.1
+- [React Native Firebase](https://www.npmjs.com/package/@react-native-firebase/app) `v11.1.2`  
+  - Módulos usados: Auth, Firestore, Storage, Cloud Messaging, Cloud Functions  
+- [Geofirestore](https://www.npmjs.com/package/geofirestore) `v4.4.1`  
 
 ## Setup
 
