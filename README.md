@@ -25,7 +25,7 @@ Ubix Client App is a mobile application that allows users to register, explore p
 - [React Native Swipe List View](https://www.npmjs.com/package/react-native-swipe-list-view) `v3.2.6`  
 
 ### State Management
-- Context API  
+- [Context API](https://reactjs.org/docs/context.html)  
 
 ### Maps & Geolocation
 - [React Native Maps](https://www.npmjs.com/package/react-native-maps) `v0.27.1`  
