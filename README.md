@@ -66,7 +66,7 @@ npx react-native run-ios
 ```
 
 ## Contributions
-For questions or suggestions, you can contact me at [ezioeg@gmail.com].
+Contributions are welcome. If you wish to improve the project, please fork it and submit a pull request.
 
 ## Contact
 For questions or suggestions, you can contact me at [ezioeg@gmail.com].
